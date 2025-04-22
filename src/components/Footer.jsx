@@ -14,8 +14,7 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { icon: <FaFacebookF />, href: '#' },
-    { icon: <FaLinkedinIn />, href: '#' },
+    { icon: <FaLinkedinIn />, href: 'https://www.linkedin.com/in/rifka-rafi-5ab9852b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
     { icon: <FaEnvelope />, href: 'mailto:rifkarafi20@gmail.com' }
   ];
 

@@ -71,18 +71,10 @@ const Hero = () => {
     >
       <h2 className="text-[#eb906a] text-3xl font-bold mb-6">Connect with Me!</h2>
       <div className="flex justify-center gap-6 mb-6">
-      <motion.a 
-  href="https://www.facebook.com"
-  target="_blank"
-  rel="noopener noreferrer"
-  whileHover={{ scale: 1.2 }}
-  className="p-3 bg-white/80 rounded-full text-[#9e3f10] hover:text-[#2d4373] transition-colors duration-300 shadow-md"
->
-  <FaFacebookF className="text-2xl drop-shadow-md hover:drop-shadow-[0_0_10px_rgba(45,67,115,0.6)]" />
-</motion.a>
+     
 
 <motion.a 
-  href="https://www.linkedin.com"
+  href="https://www.linkedin.com/in/rifka-rafi-5ab9852b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   target="_blank"
   rel="noopener noreferrer"
   whileHover={{ scale: 1.2 }}

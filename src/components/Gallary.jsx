@@ -7,7 +7,7 @@ const galleryImages = [
   { id: 1, src: 'gal (1).jpeg', title: 'Field work' },
   { id: 2, src: 'gal (2).jpeg', title: 'Field work' },
   { id: 3, src: 'gal (3).jpeg', title: 'Field work' },
-  { id: 4, src: 'gal (4).jpeg', title: 'Field work' },
+
   { id: 5, src: 'gal (5).jpeg', title: 'Field work' },
   { id: 6, src: 'gal (6).jpeg', title: 'Field work' },
   { id: 7, src: 'gal (7).jpeg', title: 'Field work' },
