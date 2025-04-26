@@ -15,7 +15,7 @@ const Education = () => {
       id: 2,
       degree: "A/L - Science Stream",
       years: "2017 - 2019",
-      institution: "Colombo International School",
+      institution: "President’s Science College, Puttalam",
       results: "Biology C ,Chemistry  C ,Physics  S ",
       description: "Focused on biological sciences with emphasis on human anatomy and physiology."
     },
@@ -23,7 +23,7 @@ const Education = () => {
       id: 3,
       degree: "O/L - General Subjects",
       years: "2014 - 2016",
-      institution: "Colombo International School",
+      institution: "President’s Science College, Puttalam",
       results: " A Passes: Science, Mathematics, English, History, Islam, Arabic, Arabic Literature ,B Passes: Tamil, ICT ",
       description: "Comprehensive foundation in health promotion emphasizing community health, social engagement, and wellness education."
     }
