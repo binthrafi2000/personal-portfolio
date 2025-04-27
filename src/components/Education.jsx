@@ -23,7 +23,7 @@ const Education = () => {
       id: 3,
       degree: "O/L - General Subjects",
       years: "2014 - 2016",
-      institution: "President’s Science College, Puttalam",
+      institution: "Mercy Education Campus",
       results: " A Passes: Science, Mathematics, English, History, Islam, Arabic, Arabic Literature ,B Passes: Tamil, ICT ",
       description: "Comprehensive foundation in health promotion emphasizing community health, social engagement, and wellness education."
     }
